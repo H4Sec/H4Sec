@@ -13,6 +13,5 @@ I was born in 2002 in Yalova/TURKEY. I have been continuing the adventure that I
 <details>
   <summary>More...</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=h4sec&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=28&theme=dark" style="width: 50%;"/>
-       <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"  style="width: 49%;"/>
-</details>
+       </details>
 
